@@ -1,0 +1,30 @@
+{
+   "Monday": {
+      "M": "Kwadwo",
+      "F": "Adwoa"
+   },
+   "Tuesday": {
+      "M": "Kwabena",
+      "F": "Abena"
+   },
+   "Wednesday": {
+      "M": "Kwaku",
+      "F": "Akua"
+   },
+   "Thursday": {
+      "M": "Yaw",
+      "F": "Yaa"
+   },
+   "Friday": {
+      "M": "Kofi",
+      "F": "Afua"
+   },
+   "Saturday": {
+      "M": "Kwame",
+      "F": "Ama"
+   },
+   "Sunday": {
+      "M": "Kwesi",
+      "F": "Akosua"
+   }
+}
