@@ -6,13 +6,13 @@ from datetime import datetime as date
 data = json.load(open("akannames.json"))
 
 
-gender = input("Are you Male or Female? (M/F): ")
-dob = input("Enter your date of birth in this format: 01-Jan-1980: ")
+gender = input("\nAre you Male or Female? (M/F): ")
+dob = input("\nEnter your date of birth in this format: 01-Jan-1980: ")
 
 
 #User input checks 
 
-if gender.upper().str not in ("M","F"):
+if gender.upper().strip() not in ("M","F"):
     raise Exception("\n\nYou didn't enter the correct gender. \n\n")
     
 try:
