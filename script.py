@@ -28,7 +28,7 @@ try:
     print(
         """
         You were born on a %s
-        Your Ghanaian name is %s
+        Your Akan name is %s
         """
         % (dayName, akanName))
 except :
