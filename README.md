@@ -1,2 +1,3 @@
 # Akan-name 🇬🇭
-Script to retreive Akan name from a json file depending on inputted gender &amp; date of birth
+
+Script that tells you your Akan name written in Python 3
