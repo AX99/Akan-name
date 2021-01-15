@@ -1,0 +1,11 @@
+{% extends "base.html" %}
+{% block content %}
+<!-- <div class="px-3 popup"> -->
+    <h1>Results</h1>
+    <p>You were born on a <span id="Day">#</span></p>
+    <p>Your Ghanaian name is <span id="Name">#</span></p>
+    <p class="lead">
+        <a href="{{ url_for('index') }}" id="restart" class="btn btn-lg btn-secondary fw-bold border-white bg-white">Start Again</a>
+    </p>
+<!-- </div> -->
+{% endblock %}
